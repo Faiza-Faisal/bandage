@@ -20,7 +20,7 @@ const Hero = () => {
         </div>
       </div>
       <div className='mt-28'>
-        <h2 className='text-2xl font-bold text-blue-950 text-center'>EDITOR'S PICK</h2>
+        <h2 className='text-2xl font-bold text-blue-950 text-center'>EDITORS PICK</h2>
         <p className='text-[#737373] text-lg text-center mb-28'>Problems trying to resolve the conflict between </p>
         <div className=" ml-24 image">
           <Image src={'/images.jpg'} alt='some images' width={1000} height={1000}></Image>
@@ -141,9 +141,9 @@ const Hero = () => {
               <p className='text-[#737373] text-md font-extralight'>New</p>
             </div>
             <h3 className='text-[#252B42] font-extralight text-2xl text-left pl-4 my-2'>Loudest à la Madison #1 <br />
-              (L'integral)</h3>
+              </h3>
             <p className='text-[#737373] font-semibold text-left pl-4 my-2'>We focus on ergonomics and meeting <br />
-              you where you work. It's only a <br />
+              you where you work. It is only a <br />
               keystroke away.</p>
             <div className="px-4 my-6 extras flex items-center justify-between">
               <div className="date flex items-center justify-between">
@@ -168,9 +168,9 @@ const Hero = () => {
               <p className='text-[#737373] text-md font-extralight'>New</p>
             </div>
             <h3 className='text-[#252B42] font-extralight text-2xl text-left pl-4 my-2'>Loudest à la Madison #1 <br />
-              (L'integral)</h3>
+              </h3>
             <p className='text-[#737373] font-semibold text-left pl-4 my-2'>We focus on ergonomics and meeting <br />
-              you where you work. It's only a <br />
+              you where you work. Itis only a <br />
               keystroke away.</p>
             <div className="px-4 my-6 extras flex items-center justify-between">
               <div className="date flex items-center justify-between">
@@ -195,9 +195,9 @@ const Hero = () => {
               <p className='text-[#737373] text-md font-extralight'>New</p>
             </div>
             <h3 className='text-[#252B42] font-extralight text-2xl text-left pl-4 my-2'>Loudest à la Madison #1 <br />
-              (L'integral)</h3>
+              </h3>
             <p className='text-[#737373] font-semibold text-left pl-4 my-2'>We focus on ergonomics and meeting <br />
-              you where you work. It's only a <br />
+              you where you work. It is only a <br />
               keystroke away.</p>
             <div className="px-4 my-6 extras flex items-center justify-between">
               <div className="date flex items-center justify-between">
